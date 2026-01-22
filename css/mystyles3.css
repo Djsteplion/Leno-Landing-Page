@@ -1,6 +1,8 @@
 @media screen and ( max-width: 500px){
 
-
+body{
+    font-family: "Open Sans", sans-serif;
+}
     
 .mySidenav a{
     font-weight: 400;
@@ -195,28 +197,31 @@
 .latch1{
     margin-right: 70px;
     margin-left: 70px; 
-     padding: 10px 0px;
+     padding: 10px 0px 5px 0px;
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 2px;
 }
 
 .latch2{
     margin-right: 40px;
-    padding: 10px 0px;
+    padding: 10px 0px 5px 0px;
     margin-left: 40px;
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 2px;
 }
 
 .latch3{
     margin-right: 20px;
     margin-left: 20px;
-     padding: 10px 0px;
+    padding: 10px 0px 5px 0px;
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 2px;
 }
 
 .configuring{

@@ -25,9 +25,7 @@ body{
 */
 
 body {
-    /*background-image: url('../images/download-background.jpg'); */
-    background-size: cover;
-    background-repeat: no-repeat;
+    font-family: "Open Sans", sans-serif;
     color: rgb(48, 48, 193);
 }
 
@@ -771,7 +769,7 @@ p a {
     justify-content: center;
     align-items: center;
     margin-top: 110px;
-    padding: 0px 50px 10px 50px;
+    padding: 0px 50px 10px 90px;
 }
 
 
