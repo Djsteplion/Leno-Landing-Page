@@ -4,7 +4,8 @@
 
 
 body{
-    font-family: "Open Sans", sans-serif;
+   /* font-family: "Open Sans", sans-serif; */
+   font-family:  'Montserrat', sans-serif;
 }
 
 
@@ -25,7 +26,8 @@ body{
 */
 
 body {
-    font-family: "Open Sans", sans-serif;
+    /*font-family: "Open Sans", sans-serif; */
+    font-family:  'Montserrat', sans-serif;
     color: rgb(48, 48, 193);
 }
 
