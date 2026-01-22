@@ -724,6 +724,14 @@ p a {
     animation: slideInCenter 0.8s ease-out forwards;
 }
 
+.type-wrap{
+  display: inline-block;
+  position: relative;
+  vertical-align: bottom;
+  border-right: 3px solid #00d2ff; /* The Cursor */
+  padding-right: 5px;
+  animation: blink 0.8s infinite;
+}
 
 .changing-text::before {
   content: "Designers";
@@ -740,7 +748,7 @@ p a {
 
 /* This makes the cursor blink */
 @keyframes blink {
-  from, to { border-color: transparent; }
+    from, to { border-color: transparent; }
   50% { border-color: #00d2ff; }
 }
 
