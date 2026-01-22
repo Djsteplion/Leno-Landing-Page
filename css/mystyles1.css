@@ -3,11 +3,9 @@
 }
 
 
-body{
-   /* font-family: "Open Sans", sans-serif; */
-   font-family:  'Montserrat', sans-serif;
+body, span, div, a, p, h1, h2, h3, h4, h5, h6{
+   font-family: "Open Sans", sans-serif!important;
 }
-
 
 
 :root {
@@ -24,12 +22,6 @@ body{
 /*  background: linear-gradient(135deg, #0a0a0f 0%, #151520 25%, #1a1a2e 50%, #16213e 75%, #0f3460 100%);
      background: linear-gradient(135deg, rgba(48, 48, 193, 0.95) 100%);
 */
-
-body {
-    /*font-family: "Open Sans", sans-serif; */
-    font-family:  'Montserrat', sans-serif;
-    color: rgb(48, 48, 193);
-}
 
 p a {
 	color: #FFF;
