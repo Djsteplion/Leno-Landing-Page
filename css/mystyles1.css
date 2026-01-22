@@ -1624,8 +1624,12 @@ color: white;
     background: #262431;
 }
 
-.EIGHT-INNERMOST.is-visible{
+.EIGHT-INNERMOST{
     width: inherit;
+    background: #262431;
+}
+
+.EIGHT-INNER.is-visible{
     animation: slideInUp 1s ease-out forwards;
 }
 
@@ -1633,7 +1637,6 @@ color: white;
     display: flex; 
     justify-content: space-between;
     padding: 100px 90px;
-    background: #262431;
     color: white;
     line-height: 30px;
     
