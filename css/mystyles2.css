@@ -1,6 +1,6 @@
 @media  screen and ( max-width: 1030px){
     
-body, a, p, h1, h2, h3, h4, h5, h6{
+body{
     font-family: "Open Sans", sans-serif!important; 
     border-right: none!important;
 }
@@ -360,6 +360,7 @@ body, a, p, h1, h2, h3, h4, h5, h6{
 
 .EIGHT-INNER{
     display: block;
+    padding-left: 50px;
 } 
 
 .about{

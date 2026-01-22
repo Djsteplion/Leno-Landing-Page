@@ -445,5 +445,5 @@ const observer9 = new IntersectionObserver((entries, observer) => {
     });
 }, { threshold: 0.2 });
 
-const targetElements9 = document.querySelectorAll('.monitoringImg, .positionUp, .monitoringFooterText, .previewText, .previewVideo, .SEVENTH-inner, .EIGHT-INNER');
+const targetElements9 = document.querySelectorAll('.monitoringImg, .positionUp, .monitoringFooterText, .previewText, .previewVideo, .SEVENTH-inner, .EIGHT-INNERMOST');
 targetElements9.forEach(div => observer9.observe(div)); 
